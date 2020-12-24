@@ -1,8 +1,8 @@
 provider "google" {
-  credentials = "${file("../service-account.json")}"
-  project = "amit-terraform-project-296204"
-  region = "us-central1"
-  zone = "us-central1-c"
+  credentials = "${file("../../service-account.json")}"
+  project = ""
+  region = "eu-west2"
+  zone = "europe-west2-a" 
 
 }
 //Amit 222
