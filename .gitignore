@@ -1,0 +1,7 @@
+basic-example/terraform
+basic-example/.terraform
+basic-example/.terraform.tfstate.lock.info
+basic-example/.terraform/.DS_Store
+basic-example/.terraform/plugins/selections.json
+basic-example/terraform.tfstate.backup
+basic-example/terraform.tfstate
